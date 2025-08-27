@@ -1,6 +1,5 @@
 // program to find the greatest number among three numbers using conditional statements
 
-package tns_backend_training;
 public class Conditional_example {
      public static void main(String[] args) {
         int a = 10;
